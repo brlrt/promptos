@@ -1,0 +1,1316 @@
+# ========================================
+#  UVSF v1.1 — Combined YAML Dataset
+#  Generated on 2025-11-09 15:47:07
+# ========================================
+
+# --- UVSF_A.yaml ---
+UVSF_v1.1_A:
+  metadata:
+    block: "A"
+    category: "Print / Editorial / Constructivist"
+    entries: 20
+    description: >
+      Styles rooted in print culture, editorial design, and geometric
+      modernism. Includes risograph, offset, stencil and grid aesthetics.
+
+  entries:
+    UVSF_A01:
+      name: "Risograph Brutalism"
+      category: "Print / Vector"
+      chatgpt: "flat two-tone risograph poster, grain texture, overprint ink on beige paper, strong outlines, Swiss layout"
+      gemini: "flat vector halftone risograph print with warm paper tone and geometric minimalism"
+      grok: "retro grainy print poster echoing 1960s constructivist zines and hand-pressed ink"
+      notes: "rauer 2-Farb-Siebdruck-Look, brutalistische Typo, Papierkorn sichtbar"
+
+    UVSF_A02:
+      name: "Swiss Grid Classic"
+      category: "Print / Editorial"
+      chatgpt: "minimal Swiss grid layout, helvetica type, precise alignment, clean white space"
+      gemini: "strict modular grid composition with sans-serif typography and mathematical balance"
+      grok: "clean modernist editorial page balanced like a 1960 typography manual"
+      notes: "perfekte Ränder, Raster sichtbar, strenge Hierarchie"
+
+    UVSF_A03:
+      name: "Bauhaus Offset"
+      category: "Print / Poster"
+      chatgpt: "geometric shapes, primary colors, flat offset ink, paper grain"
+      gemini: "bauhaus-inspired offset print poster with primary palette and circular geometry"
+      grok: "playful modernist composition celebrating form and function in ink layers"
+      notes: "flache Primärfarben, Kreis und Linie, visuelle Reduktion"
+
+    UVSF_A04:
+      name: "Litho Monochrome"
+      category: "Print / Halftone"
+      chatgpt: "lithographic monochrome portrait, soft ink bleed, paper tooth"
+      gemini: "lithograph texture simulation in grey scale with visible plate edges"
+      grok: "tactile monochrome print evoking old atelier stone-press techniques"
+      notes: "klassische Steindruck-Ästhetik, Tonwertabstufung weich"
+
+    UVSF_A05:
+      name: "Stencil Protest"
+      category: "Print / Stencil"
+      chatgpt: "bold stencil typography, spray overspray, cut-out edges"
+      gemini: "typographic stencil poster with ink bleed and political DIY energy"
+      grok: "gritty street-print aesthetic like hand-cut posters on walls"
+      notes: "anarcho-DIY Look, Sprühkanten, Schablonenschrift"
+
+    UVSF_A06:
+      name: "Soviet Constructivism"
+      category: "Print / Poster"
+      chatgpt: "red-black constructivist poster, angular geometry, diagonal composition"
+      gemini: "propaganda-era graphic with bold angles and dynamic typography"
+      grok: "dramatic agitprop design channeling 1920s Moscow atelier energy"
+      notes: "starke Diagonale, Typo im Winkel, kontrastreich"
+
+    UVSF_A07:
+      name: "Screenprint Texture"
+      category: "Print / Texture"
+      chatgpt: "layered screenprint poster, visible registration marks, ink overlap"
+      gemini: "silk-screen texture simulation with ink misalignment and grain overlay"
+      grok: "tactile poster with layered inks and slight color offsets"
+      notes: "Siebdruck-Look, Fehlpassung erwünscht, handmade"
+
+    UVSF_A08:
+      name: "Newspaper Halftone"
+      category: "Print / Editorial"
+      chatgpt: "CMYK dot pattern, newsprint texture, vintage photo repro"
+      gemini: "halftone print simulation with visible CMY dots and rough paper fibre"
+      grok: "nostalgic tabloid feel with aged ink dots and cheap paper grit"
+      notes: "Zeitungspapier, Rasterpunkte, Retro Effekt"
+
+    UVSF_A09:
+      name: "Letterpress Impression"
+      category: "Print / Tactile"
+      chatgpt: "deep letterpress imprint on cotton paper, embossed ink edges"
+      gemini: "tactile debossed print with visible pressure and ink spread"
+      grok: "slow-crafted print where you can feel the type bite into the paper"
+      notes: "Reliefdruck, Druckspur, Papierfaser"
+
+    UVSF_A10:
+      name: "Academic Zine"
+      category: "Print / Editorial"
+      chatgpt: "type-only zine, two-column layout, margin notes, monospace accents"
+      gemini: "minimalist research brochure design with grid-set type and footnotes"
+      grok: "calm intellectual pamphlet feel from underground academic presses"
+      notes: "semantisch aufgeräumt, seriöse Zine-Optik"
+
+    UVSF_A11:
+      name: "Folded Broadsheet"
+      category: "Print / Publication"
+      chatgpt: "broadsheet newspaper layout, fold marks, serif headline"
+      gemini: "large-format print spread with balanced text columns"
+      grok: "folded public communication format of analog era"
+      notes: "Großformat, Zeitungslayout, gefaltet"
+
+    UVSF_A12:
+      name: "Book Spread Minimal"
+      category: "Print / Book"
+      chatgpt: "two-page book spread, generous margins, light serif typography"
+      gemini: "editorial layout emphasizing proportion and breathing space"
+      grok: "elegant open-book look, pure typographic rhythm"
+      notes: "Doppelseite, Weißraum, Buchästhetik"
+
+    UVSF_A13:
+      name: "Poster Grid Modular"
+      category: "Print / System"
+      chatgpt: "modular poster grid with strong baseline and spacing logic"
+      gemini: "rational modular typographic system, no decoration"
+      grok: "perfect geometry of communication in poster form"
+      notes: "Raster sichtbar, konstruktivistisch"
+
+    UVSF_A14:
+      name: "Mimeograph Blue"
+      category: "Print / Vintage"
+      chatgpt: "blue-ink mimeograph print, uneven pressure, paper creases"
+      gemini: "duplicator-print simulation with ink spread"
+      grok: "faded classroom copies aesthetic"
+      notes: "Kopie, Blaudruck, analoge Fehler"
+
+    UVSF_A15:
+      name: "Offset Registration Shift"
+      category: "Print / Error"
+      chatgpt: "slightly misaligned CMYK layers, visible offsets"
+      gemini: "analog offset misprint with cyan/magenta drift"
+      grok: "beautiful imperfection of color printing gone wrong"
+      notes: "Fehlpassung, Druckversatz, Farbe"
+
+    UVSF_A16:
+      name: "Paper Grain Macro"
+      category: "Print / Texture"
+      chatgpt: "macro paper texture background, visible fibres, warm tint"
+      gemini: "detailed macro scan of handmade paper"
+      grok: "organic tactile field of cellulose structure"
+      notes: "Papierstruktur, warm, analog"
+
+    UVSF_A17:
+      name: "Fold Shadow Study"
+      category: "Print / Photography"
+      chatgpt: "folded paper shadows, light study, sculptural abstraction"
+      gemini: "minimal macro photography of folded sheets"
+      grok: "architectural light and shadow on white surface"
+      notes: "Lichtfaltung, Objektfotografie"
+
+    UVSF_A18:
+      name: "Typographic Manifesto"
+      category: "Print / Conceptual"
+      chatgpt: "black text manifesto poster, asymmetric layout, strong contrast"
+      gemini: "protest typography design, raw hierarchy and white space"
+      grok: "urgent ideological poster of pure language as image"
+      notes: "Manifest-Layout, Schrift als Inhalt"
+
+    UVSF_A19:
+      name: "Risograph Collage"
+      category: "Print / Mixed Media"
+      chatgpt: "layered collage poster, halftone photos, paper cutouts"
+      gemini: "risograph collage composition with printed texture overlap"
+      grok: "chaotic zine collage aesthetic with ink ghosts"
+      notes: "Collage, Überlagerung, DIY"
+
+    UVSF_A20:
+      name: "Deconstructed Layout"
+      category: "Print / Experimental"
+      chatgpt: "fragmented magazine layout, text overlap, broken hierarchy"
+      gemini: "postmodern deconstructive editorial composition"
+      grok: "chaotic editorial energy breaking the Swiss grid"
+      notes: "Dekonstruktion, Rasterbruch, Punktypografie"
+
+
+# --- UVSF_B.yaml ---
+UVSF_v1.1_B:
+  metadata:
+    block: "B"
+    category: "Cinematic / Analog / Optical"
+    entries: 20
+    description: >
+      Visual languages of film, projection and analog recording.
+      Noir, VHS, Technicolor and retro-cinematic studies of light and atmosphere.
+
+  entries:
+    UVSF_B01:
+      name: "Film Noir Monochrome"
+      category: "Cinematic / Analog"
+      chatgpt: "high-contrast black-and-white film still, moody lighting, smoke haze"
+      gemini: "monochrome cinematic lighting study with chiaroscuro shadows and grain"
+      grok: "rain-slick city alley, lone detective lit by a flickering neon sign"
+      notes: "klassische Noir-Ästhetik, starke Hell-Dunkel-Kontraste"
+
+    UVSF_B02:
+      name: "Technicolor Dream"
+      category: "Cinematic / Color"
+      chatgpt: "saturated mid-century technicolor film still, soft lens glow"
+      gemini: "lush color-graded 1950s technicolor palette, gentle bloom"
+      grok: "nostalgic cinema frame bathed in saturated pastel hues"
+      notes: "kräftige Farben, weiche Ränder, Vintage-Kinogefühl"
+
+    UVSF_B03:
+      name: "VHS Home Video"
+      category: "Analog / Tape"
+      chatgpt: "1980s vhs frame, chromatic noise, timestamp overlay"
+      gemini: "degraded analog videotape texture with interlacing lines"
+      grok: "faded living-room recording flickering with home-video warmth"
+      notes: "Retro-Heimvideo, Scanlines, Datumseinblendung"
+
+    UVSF_B04:
+      name: "CRT Distortion"
+      category: "Analog / Screen"
+      chatgpt: "cathode-ray tv screen, scanlines, curvature, color bleed"
+      gemini: "curved crt display simulation with phosphor glow"
+      grok: "ghosting tv image humming in static distortion"
+      notes: "Röhrenmonitor-Verzerrung, Scanlines, Farbversatz"
+
+    UVSF_B05:
+      name: "Silent Film Grain"
+      category: "Cinematic / Historic"
+      chatgpt: "sepia-toned silent movie still, frame scratches, flicker"
+      gemini: "early-cinema texture with frame jitter and dust"
+      grok: "flickering 1920s reel fragment whispering old drama"
+      notes: "Stummfilm-Anmutung, Kratzer, Sepiaton"
+
+    UVSF_B06:
+      name: "Drive-In Neon"
+      category: "Cinematic / Night"
+      chatgpt: "neon-lit night scene, retro signage, car reflections"
+      gemini: "dusk neon lighting study with cinematic reflections"
+      grok: "lovers in a parked car under glowing roadside signs"
+      notes: "50er-Jahre Drive-In, Neon-Reflexionen, Nostalgie"
+
+    UVSF_B07:
+      name: "Polaroid Snapshot"
+      category: "Analog / Instant"
+      chatgpt: "instant film border, washed colors, soft vignette"
+      gemini: "instant-camera color shift, film chemistry texture"
+      grok: "hand-held polaroid catching a fleeting candid smile"
+      notes: "Sofortbildrahmen, weiche Farben, spontaner Moment"
+
+    UVSF_B08:
+      name: "Super 8 Vacation"
+      category: "Analog / Film"
+      chatgpt: "super 8 film still, warm tint, handheld blur"
+      gemini: "vintage home-movie film grain with orange cast"
+      grok: "grainy handheld memory of a summer holiday"
+      notes: "Urlaubsfilm-Look, Filmkorn, Nostalgie"
+
+    UVSF_B09:
+      name: "Art-House Minimal"
+      category: "Cinematic / Minimal"
+      chatgpt: "wide shot, minimal set design, desaturated color"
+      gemini: "minimalist film frame emphasizing space and silence"
+      grok: "contemplative long take bathed in pale daylight"
+      notes: "europäisches Autorenkino, Leere, Stimmung"
+
+    UVSF_B10:
+      name: "Cyber Noir"
+      category: "Cinematic / Digital"
+      chatgpt: "dark neon alley, reflections, rain, blue-magenta palette"
+      gemini: "neon-noir composition with reflective puddles and vapor"
+      grok: "future-city detective story glowing in cyan and magenta"
+      notes: "Blade-Runner-Ästhetik, Neon, Nachtregen"
+
+    UVSF_B11:
+      name: "70s Film Poster"
+      category: "Cinematic / Print"
+      chatgpt: "retro painted movie poster, warm halftone texture"
+      gemini: "illustrated 1970s cinema poster with analog grain"
+      grok: "gritty pulp poster humming with analog warmth"
+      notes: "Handgemaltes Filmplakat, warme Körnung"
+
+    UVSF_B12:
+      name: "Cine Still 400"
+      category: "Cinematic / Film"
+      chatgpt: "film-still look, natural light, fine grain"
+      gemini: "realistic photo with cinematic grading and soft grain"
+      grok: "a paused movie moment frozen between breaths"
+      notes: "CineStill-Look, rotes Halo, realistisch"
+
+    UVSF_B13:
+      name: "Surveillance Feed"
+      category: "Analog / Video"
+      chatgpt: "cctv monochrome frame, timestamp, low fps blur"
+      gemini: "security camera footage simulation with low resolution"
+      grok: "eerie fixed-camera watching a silent corridor"
+      notes: "Überwachungskamera, Kälte, Monotonie"
+
+    UVSF_B14:
+      name: "Projection Beam"
+      category: "Cinematic / Light"
+      chatgpt: "dust in projector light cone, dark room ambience"
+      gemini: "atmospheric projector beam scattering particles"
+      grok: "cinema light slicing through smoke above empty seats"
+      notes: "Projektionskegel, Staub, Kinostimmung"
+
+    UVSF_B15:
+      name: "Film Reel Archive"
+      category: "Analog / Object"
+      chatgpt: "labeled 16 mm reels, shelf composition, patina"
+      gemini: "archival film materials photography with soft focus"
+      grok: "quiet nostalgia of forgotten reels stacked in storage"
+      notes: "Archivlook, Patina, Objektfotografie"
+
+    UVSF_B16:
+      name: "Kodachrome Memory"
+      category: "Analog / Color"
+      chatgpt: "bright daylight portrait, warm skin tones, vintage saturation"
+      gemini: "kodachrome color palette with high micro-contrast"
+      grok: "timeless snapshot glowing with optimism"
+      notes: "warme Farben, klare Körnung, 60er-Look"
+
+    UVSF_B17:
+      name: "Newsreel Propaganda"
+      category: "Cinematic / Historic"
+      chatgpt: "black-white newsreel frame, bold captions, grain"
+      gemini: "historic documentary aesthetic with jittery motion"
+      grok: "urgent wartime broadcast framed in flickering contrast"
+      notes: "historische Wochenschau, Propagandaton"
+
+    UVSF_B18:
+      name: "Experimental Lens Flare"
+      category: "Cinematic / Light"
+      chatgpt: "overexposed lens streaks, prism light artifacts"
+      gemini: "optical-flare study with diffraction patterns"
+      grok: "dreamlike camera flare washing the frame in light"
+      notes: "experimentell, Lichtbrechung, Prisma"
+
+    UVSF_B19:
+      name: "Analog Double Exposure"
+      category: "Film / Experimental"
+      chatgpt: "overlapped exposures, ghost silhouettes, texture"
+      gemini: "in-camera multiple-exposure simulation with film grain"
+      grok: "surreal overlay of two realities on celluloid"
+      notes: "Doppelbelichtung, surreal, poetisch"
+
+    UVSF_B20:
+      name: "Projection Booth"
+      category: "Cinematic / Space"
+      chatgpt: "small projection room, reels spinning, amber light"
+      gemini: "warm tungsten interior with mechanical film projector"
+      grok: "nostalgic cinema operator threading reels in soft glow"
+      notes: "analoger Maschinenraum, Nostalgie, Gelblicht"
+
+
+# --- UVSF_C.yaml ---
+UVSF_v1.1_C:
+  metadata:
+    block: "C"
+    category: "Digital / UI / Neon"
+    entries: 20
+    description: >
+      Glowing vectors, glitch aesthetics and synthetic light systems.
+      Covers cyberpunk, vaporwave, holography and UI-inspired compositions.
+
+  entries:
+    UVSF_C01:
+      name: "Neon Grid Horizon"
+      category: "Digital / Retro"
+      chatgpt: "purple neon wireframe grid, infinite horizon, dark sky"
+      gemini: "retro-futuristic landscape with glowing magenta gridlines"
+      grok: "endless virtual plane fading into violet twilight"
+      notes: "Vaporwave, 80er-Synth, Retrolook"
+
+    UVSF_C02:
+      name: "HUD Interface"
+      category: "Digital / UI"
+      chatgpt: "transparent heads-up display overlay, cyan glow"
+      gemini: "augmented-reality interface design with circular data rings"
+      grok: "floating futuristic UI elements in transparent layers"
+      notes: "Futuristische Benutzeroberfläche, HUD"
+
+    UVSF_C03:
+      name: "Terminal Green"
+      category: "Digital / Retro"
+      chatgpt: "green phosphor text terminal on black, retro CRT font"
+      gemini: "matrix-style terminal interface with glow decay"
+      grok: "monochrome data screen from early cyberspace"
+      notes: "Monospace, CRT, Hackerästhetik"
+
+    UVSF_C04:
+      name: "Wireframe Object"
+      category: "Digital / 3D"
+      chatgpt: "rotating wireframe mesh model on dark background"
+      gemini: "3D line mesh rendering with neon highlights"
+      grok: "technical wire sculpture suspended in virtual void"
+      notes: "3D Linienmodell, Neon-Highlights"
+
+    UVSF_C05:
+      name: "Pixel Vapor"
+      category: "Digital / Retro"
+      chatgpt: "low-resolution pixel-art sunrise with vaporwave palette"
+      gemini: "pixel landscape rendered in pastel neon tones"
+      grok: "dreamlike pixel beach under magenta haze"
+      notes: "8-Bit Retro, Vaporwave-Stimmung"
+
+    UVSF_C06:
+      name: "Data Glitch Static"
+      category: "Digital / Error"
+      chatgpt: "rgb channel shift, scanlines, compression artifacts"
+      gemini: "digital signal error pattern with color displacement"
+      grok: "glitching screen melting into noise chaos"
+      notes: "TV-Rauschen, Datenfehler, Störung"
+
+    UVSF_C07:
+      name: "Holographic UI"
+      category: "Digital / Futurism"
+      chatgpt: "transparent interface panels, floating icons, cyan glow"
+      gemini: "augmented reality overlay with depth-field blur"
+      grok: "floating holo-dashboard in dark space"
+      notes: "HUD-Look, transparente Ebenen"
+
+    UVSF_C08:
+      name: "Code Cascade"
+      category: "Digital / System"
+      chatgpt: "falling code symbols, matrix rain effect, glowing green"
+      gemini: "digital cascade of data streams with particle trails"
+      grok: "endless fall of language streams in digital rain"
+      notes: "Matrix-Ästhetik, Datenstrom"
+
+    UVSF_C09:
+      name: "Neon Portrait Split"
+      category: "Digital / Glitch"
+      chatgpt: "RGB split portrait, light streaks, chromatic aberration"
+      gemini: "multi-channel digital portrait with color drift"
+      grok: "fractured human face in RGB fragments"
+      notes: "Farbsplitting, Porträtverzerrung"
+
+    UVSF_C10:
+      name: "Cyber Cityscape"
+      category: "Digital / Environment"
+      chatgpt: "futuristic city at night, neon lights, flying vehicles"
+      gemini: "dense sci-fi cityscape under magenta glow"
+      grok: "electric metropolis humming under perpetual rain"
+      notes: "Cyberpunk, Nachtstadt, Neonregen"
+
+    UVSF_C11:
+      name: "Hologram Bust"
+      category: "Digital / Sculpture"
+      chatgpt: "holographic bust projection, light particles, rotation"
+      gemini: "3D scan hologram aesthetic with blue glow"
+      grok: "ghostly digital statue flickering in light grid"
+      notes: "Hologramm-Büste, Datenstaub"
+
+    UVSF_C12:
+      name: "Compression Blur"
+      category: "Digital / Error"
+      chatgpt: "jpeg compression glitch, block artifacts, loss pattern"
+      gemini: "data-degraded image with mosaic pixel noise"
+      grok: "memory eroding through digital compression"
+      notes: "JPEG-Artefakte, Datenverlust"
+
+    UVSF_C13:
+      name: "Light Tunnel"
+      category: "Digital / Motion"
+      chatgpt: "infinite neon tunnel, motion blur, vanishing point"
+      gemini: "vfx light tunnel simulation with perspective streaks"
+      grok: "falling endlessly through light corridors"
+      notes: "Bewegung, Perspektive, Lichtröhre"
+
+    UVSF_C14:
+      name: "VR Headspace"
+      category: "Digital / Conceptual"
+      chatgpt: "user silhouette with headset, glowing outlines"
+      gemini: "virtual reality visualization of immersion"
+      grok: "mind enclosed within neon geometry"
+      notes: "VR, Kopfprojektion, Bewusstseinsraum"
+
+    UVSF_C15:
+      name: "Tech Blueprint UI"
+      category: "Digital / System"
+      chatgpt: "blueprint-style interface, cyan lines on dark background"
+      gemini: "tech diagram overlay merging UI and CAD"
+      grok: "digital engineering as visual syntax"
+      notes: "UI/CAD Hybrid, technische Präzision"
+
+    UVSF_C16:
+      name: "Signal Distortion"
+      category: "Digital / Error"
+      chatgpt: "tv signal breakup, distorted sync lines"
+      gemini: "analog-digital interference visualized as pattern"
+      grok: "chaotic beauty of transmission decay"
+      notes: "Signalfehler, Übertragung, Rauschen"
+
+    UVSF_C17:
+      name: "Neon Glyphs"
+      category: "Digital / Typography"
+      chatgpt: "glowing typographic symbols floating in dark void"
+      gemini: "animated glowing letterforms in 3D grid space"
+      grok: "neon hieroglyphs of synthetic culture"
+      notes: "Typografie, Schriftzeichen, Neon"
+
+    UVSF_C18:
+      name: "Cyber Bloom"
+      category: "Digital / Abstract"
+      chatgpt: "floral fractal bloom rendered with neon lighting"
+      gemini: "fractal pattern with holographic gradient glow"
+      grok: "digital flower blooming from light data"
+      notes: "Fraktal, Abstraktion, künstliche Natur"
+
+    UVSF_C19:
+      name: "Wire City Night"
+      category: "Digital / 3D"
+      chatgpt: "isometric wireframe city, glowing nodes"
+      gemini: "3D data city made of luminous vectors"
+      grok: "metropolis drawn in electric lines"
+      notes: "Isometrie, Datenstadt, Lichtlinien"
+
+    UVSF_C20:
+      name: "Error Screen Blue"
+      category: "Digital / System"
+      chatgpt: "blue error screen, typography glitch aesthetic"
+      gemini: "digital system failure display rendered as poster"
+      grok: "melancholy poetry of machine error"
+      notes: "BSOD, Fehlermeldung, Digitalpoesie"
+
+
+# --- UVSF_D.yaml ---
+UVSF_v1.1_D:
+  metadata:
+    block: "D"
+    category: "Painterly / Organic / Material"
+    entries: 20
+    description: >
+      Textural, gestural, and organic interpretations of form.
+      Covers ink, watercolor, pastel, oil, and tactile painterly surfaces.
+
+  entries:
+    UVSF_D01:
+      name: "Watercolor Bloom"
+      category: "Painterly / Water"
+      chatgpt: "delicate watercolor gradient, paper texture, pigment flow"
+      gemini: "organic wash of translucent pigments with edge diffusion"
+      grok: "gentle water blooming through cotton paper"
+      notes: "Aquarellverlauf, Pigmentwolke, zarte Struktur"
+
+    UVSF_D02:
+      name: "Acrylic Texture"
+      category: "Painterly / Plastic"
+      chatgpt: "impasto acrylic surface, visible brush marks"
+      gemini: "thick pigment build-up photographed with raking light"
+      grok: "vivid physical paint strokes frozen in time"
+      notes: "Acrylmalerei, Pinselstruktur, Körperhaftigkeit"
+
+    UVSF_D03:
+      name: "Charcoal Sketch"
+      category: "Painterly / Drawing"
+      chatgpt: "charcoal figure sketch, dusty strokes, smudge texture"
+      gemini: "traditional charcoal drawing with grain and line softness"
+      grok: "human form emerging from black dust and gesture"
+      notes: "Kohlezeichnung, Gestik, Staub"
+
+    UVSF_D04:
+      name: "Ink Line Drawing"
+      category: "Painterly / Ink"
+      chatgpt: "black ink on white, fluid lines, minimal shading"
+      gemini: "traditional ink illustration with calligraphic flow"
+      grok: "elegant brush lines dancing on paper"
+      notes: "Tusche, Linienfluss, klassisch"
+
+    UVSF_D05:
+      name: "Oil Portrait Classic"
+      category: "Painterly / Oil"
+      chatgpt: "oil painting portrait, visible strokes, subtle glazing"
+      gemini: "baroque portrait simulation with texture realism"
+      grok: "oil-painted figure glowing in candlelight hue"
+      notes: "Ölmalerei, Glanz, klassische Komposition"
+
+    UVSF_D06:
+      name: "Gouache Flat Color"
+      category: "Painterly / Flat"
+      chatgpt: "opaque gouache blocks, matte surface, clean edges"
+      gemini: "graphic gouache illustration with velvety finish"
+      grok: "flat pigment layers forming soft geometry"
+      notes: "Deckfarben, matte Flächen, klare Formen"
+
+    UVSF_D07:
+      name: "Pastel Chalk Soft"
+      category: "Painterly / Pastel"
+      chatgpt: "pastel drawing, soft edges, powder texture"
+      gemini: "chalk pigment render with dusty finish"
+      grok: "soft light world drawn in powder color"
+      notes: "Pastell, sanft, kreidig"
+
+    UVSF_D08:
+      name: "Collage Paper Cut"
+      category: "Painterly / Collage"
+      chatgpt: "paper cut collage, layered torn edges, glue marks"
+      gemini: "handmade collage composition with visible paper texture"
+      grok: "layered analog chaos arranged with intention"
+      notes: "Papiercollage, Überlagerung, handmade"
+
+    UVSF_D09:
+      name: "Sumi-e Minimal"
+      category: "Painterly / Ink"
+      chatgpt: "Japanese sumi-e brush stroke, white background, simplicity"
+      gemini: "ink wash minimalism with calligraphic rhythm"
+      grok: "gesture distilled to essence, void and form"
+      notes: "Zen-Tuschemalerei, Reduktion"
+
+    UVSF_D10:
+      name: "Impasto Abstract"
+      category: "Painterly / Texture"
+      chatgpt: "close-up of impasto paint texture, thick pigment ridges"
+      gemini: "macro photograph of paint ridges and knife marks"
+      grok: "mountain landscape of pigment terrain"
+      notes: "Ölpaste, Struktur, Relief"
+
+    UVSF_D11:
+      name: "Paper Fiber Macro"
+      category: "Organic / Texture"
+      chatgpt: "macro paper texture, fibers and irregular edges"
+      gemini: "organic surface scan with light shadows"
+      grok: "landscape of microscopic fibers as terrain"
+      notes: "Papierstruktur, organisch, textural"
+
+    UVSF_D12:
+      name: "Ink Spill"
+      category: "Painterly / Accident"
+      chatgpt: "ink spill pattern on absorbent paper, chaotic edges"
+      gemini: "organic fluid simulation of bleeding ink"
+      grok: "accidental beauty of black spreading through white"
+      notes: "Zufallsstruktur, Tintenkleckse"
+
+    UVSF_D13:
+      name: "Monoprint Texture"
+      category: "Painterly / Print"
+      chatgpt: "abstract monoprint, uneven pigment pressure"
+      gemini: "hand-pressed print artifact with ghost texture"
+      grok: "ephemeral imprint left by gesture"
+      notes: "Monotypie, Druckspur, Zufall"
+
+    UVSF_D14:
+      name: "Cyanotype Botanical"
+      category: "Analog / Print"
+      chatgpt: "cyanotype print of leaves, deep blue tone"
+      gemini: "photochemical cyan print with silhouette of plants"
+      grok: "sun-imprinted memory in blue"
+      notes: "Fotogramm, Blaudruck, Natur"
+
+    UVSF_D15:
+      name: "Oil Spill Abstraction"
+      category: "Painterly / Liquid"
+      chatgpt: "iridescent oil slick pattern, rainbow reflection"
+      gemini: "macro photograph of oil-film interference"
+      grok: "shimmering chaos of surface tension"
+      notes: "Ölschicht, Farbspektrum, Fluss"
+
+    UVSF_D16:
+      name: "Ink Wash Portrait"
+      category: "Painterly / Wash"
+      chatgpt: "monochrome ink wash portrait, bleeding contours"
+      gemini: "soft tonal ink drawing with dissolved edges"
+      grok: "melancholy face formed in fluid grey"
+      notes: "Aquarell-Tusche, Porträt, Stimmung"
+
+    UVSF_D17:
+      name: "Dry Brush Motion"
+      category: "Painterly / Gesture"
+      chatgpt: "dry brush stroke texture, expressive movement"
+      gemini: "brush dynamics frozen mid-motion on coarse paper"
+      grok: "raw energy recorded in fibers and paint"
+      notes: "Gestik, Bewegung, Dynamik"
+
+    UVSF_D18:
+      name: "Wax Resist Pattern"
+      category: "Painterly / Technique"
+      chatgpt: "batik-style wax resist watercolor pattern"
+      gemini: "resist dye aesthetic with abstract geometry"
+      grok: "organic repetition with cracks of randomness"
+      notes: "Wachsreservierung, Muster, Zufall"
+
+    UVSF_D19:
+      name: "Pencil Study"
+      category: "Drawing / Study"
+      chatgpt: "graphite pencil study, soft shading, eraser traces"
+      gemini: "realistic graphite drawing with tactile details"
+      grok: "gray world made of tone and pressure"
+      notes: "Bleistiftzeichnung, Tonwert, Handarbeit"
+
+    UVSF_D20:
+      name: "Brushstroke Grid"
+      category: "Painterly / System"
+      chatgpt: "grid of expressive brushstrokes, ordered spontaneity"
+      gemini: "modular composition of organic strokes"
+      grok: "rational rhythm built from painterly chance"
+      notes: "Raster + Geste, Ordnung im Chaos"
+
+
+# --- UVSF_E.yaml ---
+UVSF_v1.1_E:
+  metadata:
+    block: "E"
+    category: "Conceptual / Hybrid / Data"
+    entries: 20
+    description: >
+      Hybrid systems blending conceptual art, data aesthetics,
+      and visual metaphors. Algorithmic, procedural, or narrative constructs.
+
+  entries:
+    UVSF_E01:
+      name: "Information Sculpture"
+      category: "Conceptual / Data"
+      chatgpt: "abstract sculpture made of data streams, lines and dots"
+      gemini: "3D data visualization turned into sculptural form"
+      grok: "information given physical presence as flowing lines"
+      notes: "Datenkörper, Abstraktion, Visualisierung"
+
+    UVSF_E02:
+      name: "Data Aura"
+      category: "Conceptual / Hybrid"
+      chatgpt: "human silhouette made of data streams, glowing particles"
+      gemini: "information-body visualization with code flow textures"
+      grok: "figure woven from moving lines of light and numbers"
+      notes: "digitale Körpermetapher, Informationsfluss"
+
+    UVSF_E03:
+      name: "Algorithmic Fabric"
+      category: "Conceptual / Pattern"
+      chatgpt: "procedural woven pattern generated by algorithm"
+      gemini: "mathematical texture combining logic and fabric aesthetics"
+      grok: "textile generated by code and computation"
+      notes: "Algorithmus + Textil, generativ"
+
+    UVSF_E04:
+      name: "Generative Pattern"
+      category: "Conceptual / Algorithmic"
+      chatgpt: "algorithmic tessellation pattern, geometric rhythm"
+      gemini: "procedural geometry art with repetition symmetry"
+      grok: "endless pattern born from math"
+      notes: "Generative Art, Wiederholung, Mathematik"
+
+    UVSF_E05:
+      name: "Language Construct"
+      category: "Conceptual / Text"
+      chatgpt: "visual text composition, typographic experiment"
+      gemini: "conceptual typography mixing semantics and geometry"
+      grok: "language behaving like architecture"
+      notes: "Textkunst, Typo-Struktur, Semantik"
+
+    UVSF_E06:
+      name: "Machine Memory"
+      category: "Conceptual / Digital"
+      chatgpt: "AI memory landscape visualized as decaying network"
+      gemini: "neural network visualization fading into noise"
+      grok: "machines dreaming of lost data"
+      notes: "Neuronales Netz, Erinnerung, KI"
+
+    UVSF_E07:
+      name: "Signal Field"
+      category: "Conceptual / System"
+      chatgpt: "field of radio waves represented as flowing vectors"
+      gemini: "abstract electromagnetic landscape visualization"
+      grok: "invisible signals forming visible rhythm"
+      notes: "Radiowellen, Unsichtbares sichtbar"
+
+    UVSF_E08:
+      name: "Post-Human Portrait"
+      category: "Conceptual / Identity"
+      chatgpt: "portrait blending human and machine features"
+      gemini: "cybernetic identity composition"
+      grok: "self dissolving into network consciousness"
+      notes: "Hybridwesen, Identität, Maschine"
+
+    UVSF_E09:
+      name: "Feedback Loop"
+      category: "Conceptual / System"
+      chatgpt: "recursive image within image, endless feedback"
+      gemini: "looping frame recursion, recursive self-reference"
+      grok: "infinite hall of digital mirrors"
+      notes: "Selbstbezug, Schleife, Spiegelung"
+
+    UVSF_E10:
+      name: "Temporal Archive"
+      category: "Conceptual / Memory"
+      chatgpt: "layered timeline visualization, fading records"
+      gemini: "temporal database visual metaphor with opacity gradients"
+      grok: "memory decaying in stratified visuals"
+      notes: "Zeit + Erinnerung, visuelle Schichten"
+
+    UVSF_E11:
+      name: "Algorithmic Landscape"
+      category: "Conceptual / Generated"
+      chatgpt: "synthetic terrain generated by noise function"
+      gemini: "procedural landscape in abstract geometry"
+      grok: "artificial topography shaped by data"
+      notes: "Perlin Noise, Geometrie, Landschaft"
+
+    UVSF_E12:
+      name: "Fractal Cosmos"
+      category: "Conceptual / Math"
+      chatgpt: "mandelbrot fractal rendered as universe structure"
+      gemini: "cosmic fractal field with galactic pattern"
+      grok: "infinite recursion of creation"
+      notes: "Fraktal, Kosmos, Unendlichkeit"
+
+    UVSF_E13:
+      name: "Code Poetry"
+      category: "Conceptual / Language"
+      chatgpt: "program code formatted as poetic visual object"
+      gemini: "syntax as aesthetic, text block harmony"
+      grok: "machine poetry disguised as logic"
+      notes: "Poetischer Code, Syntaxästhetik"
+
+    UVSF_E14:
+      name: "Error Theology"
+      category: "Conceptual / Theory"
+      chatgpt: "visual theology of digital errors and glitches"
+      gemini: "symbolic abstraction of system breakdowns"
+      grok: "worshipping imperfection in algorithms"
+      notes: "Philosophisch, Fehlertheorie"
+
+    UVSF_E15:
+      name: "Graph Syntax"
+      category: "Conceptual / Network"
+      chatgpt: "graph diagram with semantic labels and connecting nodes"
+      gemini: "knowledge map visualization with relational lines"
+      grok: "conceptual network diagram as aesthetic system"
+      notes: "Mindmap, Wissensgraph"
+
+    UVSF_E16:
+      name: "Hybrid Organism"
+      category: "Conceptual / Bio-Digital"
+      chatgpt: "cyber-organic creature with mechanical textures"
+      gemini: "synthetic biology concept merging biology and circuit"
+      grok: "mechanical evolution aesthetic"
+      notes: "BioTech, Maschinenorganismus"
+
+    UVSF_E17:
+      name: "Archive Noise"
+      category: "Conceptual / Memory"
+      chatgpt: "faded digital archive visualization, decaying typography"
+      gemini: "file corruption turned into design texture"
+      grok: "data loss as history"
+      notes: "Archivzerfall, Patina, Vergänglichkeit"
+
+    UVSF_E18:
+      name: "Philosophical Diagram"
+      category: "Conceptual / Theory"
+      chatgpt: "schematic diagram visualizing abstract concept"
+      gemini: "philosophical system rendered as minimalist chart"
+      grok: "diagram as ontology"
+      notes: "Konzeptdiagramm, Theorievisualisierung"
+
+    UVSF_E19:
+      name: "Narrative Map"
+      category: "Conceptual / Story"
+      chatgpt: "timeline and geography merged into diagram"
+      gemini: "story map visualization with time and motion lines"
+      grok: "visual narrative told through coordinates"
+      notes: "Kartenpoesie, Storyline"
+
+    UVSF_E20:
+      name: "Machine Mandala"
+      category: "Conceptual / Symmetry"
+      chatgpt: "circular symmetrical pattern generated by code"
+      gemini: "fractal algorithmic mandala with metal tones"
+      grok: "spiritual geometry meets computation"
+      notes: "Technik + Ritual, geometrische Meditation"
+
+
+# --- UVSF_F.yaml ---
+UVSF_v1.1_F:
+  metadata:
+    block: "F"
+    category: "Experimental / Temporal / Time-Based"
+    entries: 20
+    description: >
+      Kinetic, time-based, or procedural aesthetics exploring duration,
+      decay, performance, or iteration across frames and materials.
+
+  entries:
+    UVSF_F01:
+      name: "Long Exposure Trace"
+      category: "Experimental / Temporal"
+      chatgpt: "light trails over long exposure, movement frozen in blur"
+      gemini: "photographic trace of moving light over time"
+      grok: "gesture stretched across seconds of exposure"
+      notes: "Langzeitbelichtung, Bewegung, Spur"
+
+    UVSF_F02:
+      name: "Kinetic Sculpture"
+      category: "Experimental / Motion"
+      chatgpt: "moving mechanical parts, rhythmic oscillation"
+      gemini: "motion capture of physical kinetic art"
+      grok: "machines performing temporal choreography"
+      notes: "Bewegungsskulptur, Mechanik, Rhythmus"
+
+    UVSF_F03:
+      name: "Decay Frame"
+      category: "Experimental / Time"
+      chatgpt: "gradually decaying visual over sequential frames"
+      gemini: "visual erosion animation simulating entropy"
+      grok: "image dying slowly through repetition"
+      notes: "Zerfall, Zeit, Vergänglichkeit"
+
+    UVSF_F04:
+      name: "Performance Trace"
+      category: "Experimental / Gesture"
+      chatgpt: "paint motion captured as sequence overlay"
+      gemini: "temporal gesture visualization"
+      grok: "dance recorded through lines in air"
+      notes: "Bewegung, Tanz, Überlagerung"
+
+    UVSF_F05:
+      name: "Time Loop Projection"
+      category: "Experimental / Installation"
+      chatgpt: "looped projection of repeating frame on wall"
+      gemini: "site-specific video loop installation"
+      grok: "eternal loop reflecting its own presence"
+      notes: "Loop-Video, Projektion"
+
+    UVSF_F06:
+      name: "Thermal Image Study"
+      category: "Experimental / Sensor"
+      chatgpt: "infrared thermal visualization, heat gradients"
+      gemini: "thermal camera color palette mapping temperature"
+      grok: "seeing warmth as spectrum"
+      notes: "Infrarot, Wärmebild"
+
+    UVSF_F07:
+      name: "Light Painting"
+      category: "Experimental / Temporal"
+      chatgpt: "hand-drawn light trails in darkness, long exposure photo"
+      gemini: "photographic light-painting trace captured over time"
+      grok: "dancing lines of pure luminosity captured in darkness"
+      notes: "Langzeitbelichtung, Lichtmalerei"
+
+    UVSF_F08:
+      name: "Looping Algorithm"
+      category: "Experimental / Code"
+      chatgpt: "generative loop visual changing subtly over iterations"
+      gemini: "procedural pattern evolving cyclically"
+      grok: "eternal recursion of code and form"
+      notes: "Endlosschleife, generativ"
+
+    UVSF_F09:
+      name: "Dripping Paint"
+      category: "Experimental / Physical"
+      chatgpt: "paint drip captured mid-motion, gravity aesthetic"
+      gemini: "macro shot of falling paint forming trails"
+      grok: "gravity painting its own picture"
+      notes: "Schwerkraft, Farbe, Tropfen"
+
+    UVSF_F10:
+      name: "Slow Shutter Water"
+      category: "Experimental / Temporal"
+      chatgpt: "long exposure waterfall blur, silky motion"
+      gemini: "time-stretched landscape photography"
+      grok: "motion smoothed by duration"
+      notes: "Bewegungsunschärfe, Natur"
+
+    UVSF_F11:
+      name: "Time-Lapse Bloom"
+      category: "Experimental / Natural"
+      chatgpt: "flower blooming time-lapse frame sequence"
+      gemini: "temporal growth visual compressed to seconds"
+      grok: "life accelerated beyond perception"
+      notes: "Zeitraffer, Natur, Wachstum"
+
+    UVSF_F12:
+      name: "Analog Film Burn"
+      category: "Experimental / Analog"
+      chatgpt: "film reel burn transition, organic edge"
+      gemini: "celluloid frame damage simulation"
+      grok: "beauty of destruction in film medium"
+      notes: "Filmverbrennung, analoger Fehler"
+
+    UVSF_F13:
+      name: "Light Flicker Study"
+      category: "Experimental / Light"
+      chatgpt: "strobe light flicker pattern captured on camera"
+      gemini: "temporal interference of shutter and strobe"
+      grok: "light beating in rhythm against time"
+      notes: "Flackern, Frequenz, Rhythmus"
+
+    UVSF_F14:
+      name: "Iterative Mutation"
+      category: "Experimental / Code"
+      chatgpt: "image evolving across algorithmic generations"
+      gemini: "AI-evolution visual morph sequence"
+      grok: "digital organism mutating across iterations"
+      notes: "Generativ, Mutation, Wandel"
+
+    UVSF_F15:
+      name: "Feedback Distortion"
+      category: "Experimental / Video"
+      chatgpt: "live video feedback creating fractal distortions"
+      gemini: "camera-to-screen recursive loop effect"
+      grok: "optical echo of reality eating itself"
+      notes: "Video-Rückkopplung, Selbstreferenz"
+
+    UVSF_F16:
+      name: "Sonic Visualization"
+      category: "Experimental / Audio"
+      chatgpt: "visual form generated by sound waveform"
+      gemini: "audio-reactive generative graphic"
+      grok: "music becoming visible matter"
+      notes: "Klangvisualisierung, Frequenzen"
+
+    UVSF_F17:
+      name: "Desynchronization"
+      category: "Experimental / Temporal"
+      chatgpt: "out-of-phase loop layers drifting slowly"
+      gemini: "multi-loop visual phasing minimalism"
+      grok: "perceptual drift in repetition"
+      notes: "Phasing, Verschiebung"
+
+    UVSF_F18:
+      name: "Shadow Play"
+      category: "Experimental / Performance"
+      chatgpt: "moving silhouettes, projected light behind fabric"
+      gemini: "shadow theatre composition in minimal setting"
+      grok: "ephemeral storytelling through darkness"
+      notes: "Schattenprojektion, Theater"
+
+    UVSF_F19:
+      name: "Melting Material"
+      category: "Experimental / Physical"
+      chatgpt: "wax melting time-lapse, form transformation"
+      gemini: "decay through heat in controlled frame"
+      grok: "entropy as sculptural process"
+      notes: "Schmelze, Wandel, Zeit"
+
+    UVSF_F20:
+      name: "Temporal Glitch"
+      category: "Experimental / Digital"
+      chatgpt: "stuttered video frames, ghosting motion effect"
+      gemini: "time displacement error aesthetic"
+      grok: "moments breaking apart across time"
+      notes: "Zeitversatz, Störung, Rhythmusbruch"
+
+
+# --- UVSF_G.yaml ---
+UVSF_v1.1_G:
+  metadata:
+    block: "G"
+    category: "Scientific / Diagrammatic / Technical"
+    entries: 20
+    description: >
+      Analytical, schematic, or cartographic visual languages.
+      Includes diagrams, infographics, measurement systems, and technical illustration.
+
+  entries:
+    UVSF_G01:
+      name: "Blueprint Diagram"
+      category: "Scientific / Technical"
+      chatgpt: "engineering blueprint on blue background with white lines"
+      gemini: "technical schematic rendered as architectural plan"
+      grok: "precision drawing revealing invisible structure"
+      notes: "Konstruktionszeichnung, technische Genauigkeit"
+
+    UVSF_G02:
+      name: "Isometric System"
+      category: "Scientific / Diagram"
+      chatgpt: "isometric grid diagram, labeled parts, clean lines"
+      gemini: "isometric system map with precise perspective"
+      grok: "machine world drawn from a god’s angle"
+      notes: "Isometrie, Mechanik, Präzision"
+
+    UVSF_G03:
+      name: "Scientific Illustration"
+      category: "Scientific / Biology"
+      chatgpt: "naturalist ink drawing of organism, labeled anatomy"
+      gemini: "scientific botanical or anatomical drawing"
+      grok: "art meets biology under magnifying glass"
+      notes: "Wissenschaftsillustration, Beschriftung"
+
+    UVSF_G04:
+      name: "Flow Diagram"
+      category: "Scientific / Process"
+      chatgpt: "arrows and boxes showing process flow"
+      gemini: "information architecture flowchart design"
+      grok: "logic visualized as stream"
+      notes: "Prozessdarstellung, Flussdiagramm"
+
+    UVSF_G05:
+      name: "Topographic Map"
+      category: "Scientific / Geography"
+      chatgpt: "contour lines showing terrain elevation"
+      gemini: "topographic visualization with color relief"
+      grok: "land made legible through contour language"
+      notes: "Höhenlinien, Kartografie"
+
+    UVSF_G06:
+      name: "Astronomical Chart"
+      category: "Scientific / Space"
+      chatgpt: "star map, constellations, coordinate grid"
+      gemini: "astronomy chart with celestial positions"
+      grok: "mapping infinity through geometry"
+      notes: "Sternenkarte, Astrografie"
+
+    UVSF_G07:
+      name: "Periodic System"
+      category: "Scientific / Chemistry"
+      chatgpt: "color-coded periodic table design"
+      gemini: "chemical element system infographic"
+      grok: "cosmos of elements arranged in logic"
+      notes: "Periodensystem, Farbcode"
+
+    UVSF_G08:
+      name: "Circuit Board Layout"
+      category: "Scientific / Electronics"
+      chatgpt: "pcb layout, traces and components on green board"
+      gemini: "technical illustration of electronic circuitry"
+      grok: "electric logic made visible"
+      notes: "Schaltplan, Leiterbahn, Technik"
+
+    UVSF_G09:
+      name: "Microscopic Structure"
+      category: "Scientific / Biology"
+      chatgpt: "microscopic cell pattern, stained color image"
+      gemini: "scientific microscopy visualization"
+      grok: "hidden architecture of living matter"
+      notes: "Zellstruktur, Mikroskopie"
+
+    UVSF_G10:
+      name: "Architectural Section"
+      category: "Scientific / Architecture"
+      chatgpt: "architectural cutaway, measurements, human scale"
+      gemini: "building section rendering with annotations"
+      grok: "cross-section revealing function and design"
+      notes: "Schnittzeichnung, Architektur"
+
+    UVSF_G11:
+      name: "Network Graph"
+      category: "Scientific / Data"
+      chatgpt: "nodes and connections representing relationships"
+      gemini: "network data visualization with force layout"
+      grok: "society as a map of lines and points"
+      notes: "Graphentheorie, Verbindungen"
+
+    UVSF_G12:
+      name: "Optical Diagram"
+      category: "Scientific / Physics"
+      chatgpt: "light refraction diagram with rays and lenses"
+      gemini: "physics diagram illustrating optical paths"
+      grok: "geometry of light visualized in precision"
+      notes: "Optik, Lichtstrahlen, Physik"
+
+    UVSF_G13:
+      name: "Mathematical Grid"
+      category: "Scientific / Math"
+      chatgpt: "coordinate grid with plotted functions"
+      gemini: "graph plotting mathematics in precise form"
+      grok: "logic of curves and numbers drawn clean"
+      notes: "Diagramm, Funktion, Mathematik"
+
+    UVSF_G14:
+      name: "Anatomical Study"
+      category: "Scientific / Biology"
+      chatgpt: "human anatomy drawing with labeled parts"
+      gemini: "detailed medical anatomical illustration"
+      grok: "mechanics of the body mapped by ink"
+      notes: "Anatomie, Präzision"
+
+    UVSF_G15:
+      name: "Weather System Map"
+      category: "Scientific / Meteorology"
+      chatgpt: "pressure lines, wind arrows, cloud icons"
+      gemini: "meteorological infographic visualization"
+      grok: "air made visible through design"
+      notes: "Wetterkarte, Datenvisualisierung"
+
+    UVSF_G16:
+      name: "Molecular Diagram"
+      category: "Scientific / Chemistry"
+      chatgpt: "molecule structure with bonds and atoms"
+      gemini: "chemical structure visualization"
+      grok: "beauty of atoms arranged in order"
+      notes: "Molekülmodell, Chemie"
+
+    UVSF_G17:
+      name: "Data Table Print"
+      category: "Scientific / Info"
+      chatgpt: "tabular data layout, clean grid, sans-serif"
+      gemini: "structured information design with clarity"
+      grok: "clarity as beauty"
+      notes: "Datentabelle, Lesbarkeit"
+
+    UVSF_G18:
+      name: "Vector Field"
+      category: "Scientific / Physics"
+      chatgpt: "arrows showing force field directions"
+      gemini: "visualization of vector data in scientific diagram"
+      grok: "motion visualized through direction"
+      notes: "Vektorfeld, Kräfte"
+
+    UVSF_G19:
+      name: "Geological Layers"
+      category: "Scientific / Earth"
+      chatgpt: "layered earth cross-section diagram"
+      gemini: "geological stratification illustration"
+      grok: "deep time drawn as colored strata"
+      notes: "Erdschichten, Geologie"
+
+    UVSF_G20:
+      name: "Schematic Overview"
+      category: "Scientific / General"
+      chatgpt: "overview schematic diagram, labeled regions and flow"
+      gemini: "summary visualization connecting systems"
+      grok: "everything connected in elegant order"
+      notes: "Übersichtsdiagramm, Systematik"
+
+
+# --- UVSF_v1.1_MASTER.yaml ---
+UVSF_v1.1:
+  meta:
+    title: "Universal Visual Style Framework"
+    version: "1.1"
+    codename: "UVSF_v1.1 — 7-Block Canon"
+    author: "compiled by a.b. (GPT-5 collab)"
+    description: >
+      A modular system for cataloging and cross-referencing visual style paradigms
+      across AI platforms (ChatGPT/DALL-E, Gemini/NanoBanana, Grok).  
+      Each block represents one domain of aesthetic logic — print, cinematic,
+      digital, painterly, conceptual, experimental, and scientific — forming a
+      universal taxonomy of visual vocabularies.
+
+    scope:
+      total_blocks: 7
+      total_entries: 140
+      platforms: ["ChatGPT / DALL·E 3", "Gemini / NanoBanana", "Grok"]
+      file_format: "YAML (UTF-8, structured)"
+      compatible_tools:
+        - "p5.js / OpenProcessing import"
+        - "Flask / JSON API"
+        - "InDesign scripting / JSX parsing"
+        - "Dataviz UI (Tailwind + Vue/React frontends)"
+
+    structure:
+      hierarchy:
+        Block_A: "Print / Editorial / Constructivist"
+        Block_B: "Cinematic / Analog / Optical"
+        Block_C: "Digital / UI / Neon"
+        Block_D: "Painterly / Organic / Material"
+        Block_E: "Conceptual / Hybrid / Data"
+        Block_F: "Experimental / Temporal / Time-Based"
+        Block_G: "Scientific / Diagrammatic / Technical"
+      relations:
+        - "A–B: analog–print continuum (material surface → optical film)"
+        - "B–C: cinematic → digital evolution (light captured → light generated)"
+        - "C–E: data abstraction (digital systems → conceptual synthesis)"
+        - "D–F: material gesture → temporal process"
+        - "G connects all: structure, measurement, diagrammatic order"
+
+  import_paths:
+    - "./UVSF_v1.1_A.yaml"
+    - "./UVSF_v1.1_B.yaml"
+    - "./UVSF_v1.1_C.yaml"
+    - "./UVSF_v1.1_D.yaml"
+    - "./UVSF_v1.1_E.yaml"
+    - "./UVSF_v1.1_F.yaml"
+    - "./UVSF_v1.1_G.yaml"
+
+  usage:
+    openprocessing:
+      mode: "data-driven"
+      script_reference: "uvsf_matrix_poster.p5.js"
+      description: >
+        Each entry (A01–G20) is read into a JS object.
+        Users can search, filter, or randomly select styles.
+        On canvas, style names appear in a grid matrix; 
+        hovering or clicking reveals the corresponding prompts 
+        for ChatGPT, Gemini, and Grok.
+
+    json_structure_example:
+      id: "UVSF_A01"
+      block: "A"
+      name: "Risograph Brutalism"
+      platforms:
+        chatgpt: "flat two-tone risograph poster, grain texture..."
+        gemini: "flat vector halftone risograph print..."
+        grok: "retro grainy print poster..."
+      notes: "rauer 2-Farb-Siebdruck-Look"
+
+  schema:
+    entry_fields:
+      - id (string)
+      - name (string)
+      - category (string)
+      - chatgpt (text)
+      - gemini (text)
+      - grok (text)
+      - notes (text)
+    validation:
+      required_fields: ["id", "name", "category", "chatgpt"]
+      allow_unicode: true
+      syntax: "YAML 1.2 strict indentation"
+
+  export:
+    formats:
+      - yaml
+      - json
+      - csv
+      - md
+    license: "CC-BY-SA 4.0"
+    versioning: "Semantic (v1.1.x)"
+    repository_hint: "UVSF_v1.1_dataset/"
+    date: "2025-11-09"
+
+  credits:
+    compiled_by: "a.b."
+    ai_collaboration: "GPT-5"
+    concept_origin: "UVSF v1.0 (test build, 2024-Q4)"
+    visual_logic_inspired_by:
+      - Swiss International Typographic Style
+      - Constructivism / Bauhaus / Information Aesthetics
+      - Media Archaeology / AI Prompt Design Systems
+      - Experimental Design Methodologies (1960–2025)
+
+
